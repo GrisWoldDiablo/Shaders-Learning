@@ -1,0 +1,40 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5223 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5223 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5223 outsize=5657 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5223 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5237 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5237 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5237 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5231 outsize=5697 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5228 outsize=5701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5152 outsize=5457 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=5174 outsize=5537 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5213 outsize=5625 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5195 outsize=5561 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5175 outsize=5505 ok=1

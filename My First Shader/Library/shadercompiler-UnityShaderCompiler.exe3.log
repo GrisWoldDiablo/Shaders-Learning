@@ -1,0 +1,25 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5223 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5223 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5237 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5222 outsize=4733 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5230 outsize=5701 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(119): integer modulus may be much slower, try using uints if possible.
+  api=4 insize=5230 outsize=4865 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=4733 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=5165 outsize=5501 ok=1
